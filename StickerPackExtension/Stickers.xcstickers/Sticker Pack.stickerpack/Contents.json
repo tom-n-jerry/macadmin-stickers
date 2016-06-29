@@ -1,4 +1,45 @@
 {
+  "stickers" : [
+    {
+      "filename" : "AllisterBanks01.sticker"
+    },
+    {
+      "filename" : "AllisterBanks02.sticker"
+    },
+    {
+      "filename" : "AllisterBanks03.sticker"
+    },
+    {
+      "filename" : "EdMarczak03.sticker"
+    },
+    {
+      "filename" : "EdMarczak01.sticker"
+    },
+    {
+      "filename" : "EdMarczak02.sticker"
+    },
+    {
+      "filename" : "GregNeagle02.sticker"
+    },
+    {
+      "filename" : "GregNeagle03.sticker"
+    },
+    {
+      "filename" : "GregNeagle01.sticker"
+    },
+    {
+      "filename" : "MikeyMike01.sticker"
+    },
+    {
+      "filename" : "RichTrouton03.sticker"
+    },
+    {
+      "filename" : "RichTrouton01.sticker"
+    },
+    {
+      "filename" : "RichTrouton02.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
